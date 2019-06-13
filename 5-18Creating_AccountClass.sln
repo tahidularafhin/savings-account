@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-18Creating_AccountClass", "5-18Creating_AccountClass\5-18Creating_AccountClass.csproj", "{B79F91FA-3E6E-40FA-8E41-F47F9CA62EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79F91FA-3E6E-40FA-8E41-F47F9CA62EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79F91FA-3E6E-40FA-8E41-F47F9CA62EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79F91FA-3E6E-40FA-8E41-F47F9CA62EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79F91FA-3E6E-40FA-8E41-F47F9CA62EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1665431C-81B5-4136-A084-735AACF3B3AB}
+	EndGlobalSection
+EndGlobal
